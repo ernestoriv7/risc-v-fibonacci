@@ -1,3 +1,6 @@
+# Todos los derechos reservados para Ernesto Rivera
+# Puede utilizarse libremente en cualquiera de sus proyectos siempre y cuando brinde el crédito :)
+
 .text
 
 main: 
